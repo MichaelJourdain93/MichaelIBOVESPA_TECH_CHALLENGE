@@ -4,6 +4,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
+##
+![Autor](https://img.shields.io/badge/Autor-Michael%20Jourdain%20Gbedjinou-lightgrey?style=for-the-badge)
 ## Problema
 
 Modelo preditivo de série temporal para prever diariamente o fechamento do índice **IBOVESPA**, usando 5 anos de dados históricos.
@@ -41,7 +43,3 @@ MichaelIBOVESPA_TECH_CHALLENGE/
 └── notebooks/
     └── series_temporais_ibovespa.ipynb
 ```
-
-## Autoria
-
-[Michael Jourdain Gbedjinou](https://github.com/MichaelJourdain93)
